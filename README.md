@@ -30,7 +30,7 @@ A modern, feature-rich to-do list web application built entirely with HTML, CSS,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/yourusername/todo-list-app.git](https://github.com/shayan-qazmi/ToDo-List
    cd todo-list-app
    ```
 
